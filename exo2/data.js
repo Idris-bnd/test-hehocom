@@ -1,57 +1,48 @@
-import firstImg from './src/1.jpg'
-import secondImg from './src/2.jpg'
-import thirdImg from './src/3.jpg'
-import fourthImg from './src/4.jpg'
-import fifthImg from './src/5.jpg'
-import sixthImg from './src/6.jpg'
-import seventhImg from './src/7.jpg'
-import eighthImg from './src8.jpg'
-
-const data = [
+const dataArray = [
     {
-        img: firstImg,
+        img: "./src/1.jpg",
         title: "Cheuveux colorés",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: secondImg,
+        img: "./src/2.jpg",
         title: "Cheuveux secs et abimés",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: thirdImg,
+        img: "./src/3.jpg",
         title: "Cheuveux bouclés",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: fourthImg,
+        img: "./src/4.jpg",
         title: "Cheuveux ondulés",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: fifthImg,
+        img: "./src/5.jpg",
         title: "Cheuveux frisés",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: sixthImg,
+        img: "./src/6.jpg",
         title: "Cheuveux crépus",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: seventhImg,
+        img: "./src/7.jpg",
         title: "Cheuveux blonds",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
     },
     {
-        img: eighthImg,
+        img: "./src/8.jpg",
         title: "Cheuveux raides",
         text: "Entretenir, prévenir les cheveux secs et abimés avec la sélevtion jean marc joubert",
         boldText: "Découvrez tous les soins et produits pour entretenir vos cheveux secs et abimés",
