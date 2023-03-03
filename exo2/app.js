@@ -51,6 +51,8 @@ const app = {
             this.rightSideHairTypes.append(div)
 
         })
+        const hairTypeDiv = document.getElementById('0')
+        hairTypeDiv.className = "hair--type active"
     },
 // -------------------------------------
 
