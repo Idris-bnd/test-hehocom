@@ -27,6 +27,8 @@ Type de fonction: C'est une fonction récursive.
 définition google pour appuyer mes propos:
 Une fonction est dite récursive si, à l'intérieur de son corps, elle s'appelle elle-même avec une valeur de paramètre différent (sinon elle boucle).
 
+Cette fonction représente la suite de Fibonacci : suite mathématique dans laquelle chaque nombre est la somme des deux qui précèdent.
+
 -----------------
 
 Ses avantages: Je dirais que c'est comme un while, on l'appel une fois puis elle 
