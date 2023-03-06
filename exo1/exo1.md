@@ -31,5 +31,4 @@ Cette fonction représente la suite de Fibonacci : suite mathématique dans laqu
 
 -----------------
 
-Ses avantages: Je dirais que c'est comme un while, on l'appel une fois puis elle 
-fais tout toute seule tant que le résultat est pas celui voulu.
+Ses avantages: Je dirais que c'est comme un while, on l'appel une fois puis elle fais tout toute seule tant que le résultat est pas celui voulu.
